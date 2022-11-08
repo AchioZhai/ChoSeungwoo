@@ -277,7 +277,7 @@ The musical was all fortunate to have been successful since its first work in 20
 
 At the time, I hated being at the scene, so I wanted to run away.(laughs)   
 
-
+----- 
 
 **정말?** 
 
@@ -287,7 +287,7 @@ At the time, I hated being at the scene, so I wanted to run away.(laughs)
 
 Then, I was caught by the director. I was about to sing a part of Ramancha's song and go out the back door, but I caught him saying, "Where are you going?" Well, it doesn't matter. You're an old man.
 
-
+-----
 
 **인정하기 싫은가.** 
 
@@ -297,7 +297,7 @@ Then, I was caught by the director. I was about to sing a part of Ramancha's son
 
 On the contrary, I think it's because I'm too young and immature.
 
-
+-----
 
 **음…. 낚시도 한다며?** 
 
@@ -307,7 +307,7 @@ On the contrary, I think it's because I'm too young and immature.
 
 I haven't done it for three years.
 
-
+-----
 
 **그럼 짬 날 땐 뭐 하나.** 
 
