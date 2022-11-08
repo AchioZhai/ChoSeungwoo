@@ -3,47 +3,35 @@
 | 2007-10-02 17:54:01 / 김뉘연 기자 Reporter Kim   |
 
 특집 | 배우 조승우를 만나다  
-
-feature | meet actor Cho Seung-woo
-
+feature | meet actor Cho Seung-woo  
 专题报道｜认识演员曹承佑
 
 
 
-**무슨 얘길 하나. 올해 출연한 영화도 없는데.** 
-
+**무슨 얘길 하나. 올해 출연한 영화도 없는데.**  
 그냥 수다나 떨자.  
 
-**What am I talking about? I haven't seen any movies this year**
-
+**What am I talking about? I haven't seen any movies this year**  
 Let's just chat.
 
+***
 
-
-**요즘 개, 고양이 키우는 재미에 푹 빠졌다고 들었다.** 
-
+**요즘 개, 고양이 키우는 재미에 푹 빠졌다고 들었다.**  
 개야 어렸을 때부터 계속 키웠다. 지금은 큰 개를 키우고 있는데. 삽살개하고 차우차우. 고양이 한 마리 키우는데 고 녀석이 새끼를 낳아가지고 지금 집에 동물이 다섯 마리 있다. 개 둘에 고양이 셋. 밖에 조그만 정원에서 개들 왔다 갔다 하고. 워낙에 동물을 좋아해서요.  
 
-**I heard that you are into the fun of raising dogs and cats these days.**
+**I heard that you are into the fun of raising dogs and cats these days.**  
+I've been raising a dog since I was young. I have a big dog now. Sapsalgae and chow chow. I have a cat and he gave birth to a baby, so I have five animals at home now. Two dogs and three cats. Dogs come and go in a small garden outside. I really like animals.  
 
-I've been raising a dog since I was young. I have a big dog now. Sapsalgae and chow chow. I have a cat and he gave birth to a baby, so I have five animals at home now. Two dogs and three cats. Dogs come and go in a small garden outside. I really like animals.
+**听说你最近很喜欢养狗和养猫**  
+我小时候就开始养狗了。现在养的是大狗，狮子犬和松狮。还有一只猫，它生了崽，所以现在家里有五个动物，两只狗，三只猫。狗在外面的小花园里跑来跑去。我本来就很喜欢小动物。  
 
-**听说你最近很喜欢养狗和养猫**
-
-我小时候就开始养狗了。现在养的是大狗，狮子犬和松狮。还有一只猫，它生了崽，所以现在家里有五个动物，两只狗，三只猫。狗在外面的小花园里跑来跑去。我本来就很喜欢小动物。
-
-
-
-**혼자 사나.** 
-
+**혼자 사나.**  
 네. 대학로에 살다 이사 갔다. 한남동 쪽으로.  
 
-**I live alone.**
-
+**I live alone.**  
 Yes. I lived in Daehak-ro and moved. Towards Hannam-dong.
 
-**一个人住吗？**
-
+**一个人住吗？**  
 对，原来住大学路，后来搬到汉南洞了。
 
 
