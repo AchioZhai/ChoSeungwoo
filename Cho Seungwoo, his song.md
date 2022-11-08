@@ -14,7 +14,7 @@ feature | meet actor Cho Seung-woo
 **What am I talking about? I haven't seen any movies this year**  
 Let's just chat.
 
-***
+----- 
 
 **요즘 개, 고양이 키우는 재미에 푹 빠졌다고 들었다.**  
 개야 어렸을 때부터 계속 키웠다. 지금은 큰 개를 키우고 있는데. 삽살개하고 차우차우. 고양이 한 마리 키우는데 고 녀석이 새끼를 낳아가지고 지금 집에 동물이 다섯 마리 있다. 개 둘에 고양이 셋. 밖에 조그만 정원에서 개들 왔다 갔다 하고. 워낙에 동물을 좋아해서요.  
@@ -23,7 +23,9 @@ Let's just chat.
 I've been raising a dog since I was young. I have a big dog now. Sapsalgae and chow chow. I have a cat and he gave birth to a baby, so I have five animals at home now. Two dogs and three cats. Dogs come and go in a small garden outside. I really like animals.  
 
 **听说你最近很喜欢养狗和养猫**  
-我小时候就开始养狗了。现在养的是大狗，狮子犬和松狮。还有一只猫，它生了崽，所以现在家里有五个动物，两只狗，三只猫。狗在外面的小花园里跑来跑去。我本来就很喜欢小动物。  
+我小时候就开始养狗了。现在养的是大狗，狮子犬和松狮。还有一只猫，它生了崽，所以现在家里有五个动物，两只狗，三只猫。狗在外面的小花园里跑来跑去。我本来就很喜欢小动物。
+
+----- 
 
 **혼자 사나.**  
 네. 대학로에 살다 이사 갔다. 한남동 쪽으로.  
@@ -32,135 +34,110 @@ I've been raising a dog since I was young. I have a big dog now. Sapsalgae and c
 Yes. I lived in Daehak-ro and moved. Towards Hannam-dong.
 
 **一个人住吗？**  
-对，原来住大学路，后来搬到汉南洞了。
+对，原来住大学路，后来搬到汉南洞了。  
+
+-----  
 
 
-
-**뮤지컬 <맨 오브 라만차>가 지난 9월 2일 끝났다. 잘 봤다. 그런데 한 회 한 회가 너무 힘들었을 듯하다.**
-
+**뮤지컬 <맨 오브 라만차>가 지난 9월 2일 끝났다. 잘 봤다. 그런데 한 회 한 회가 너무 힘들었을 듯하다.**  
 처음엔 좀 힘들었다. 익숙해지니까 체력적으로는 힘들지 않더라.  
 
-**The musical "Man of Ramancha" ended on September 2. I enjoyed it. But I think each episode must have been too hard.**
-
+**The musical "Man of Ramancha" ended on September 2. I enjoyed it. But I think each episode must have been too hard.**  
 It was a little hard at first. It's not physically tiring after getting used to it.
 
-**9 月 2 号音乐剧《我，堂吉诃德》演出结束了，表演非常棒。每次演出音乐剧都很辛苦吧？**
-
+**9 月 2 号音乐剧《我，堂吉诃德》演出结束了，表演非常棒。每次演出音乐剧都很辛苦吧？**  
 刚开始有点，习惯之后身体就不累了。
 
+-----
 
 
-**뭐랄까, 이를테면 <렌트>는 가볍게 가는 느낌인데 <맨 오브 라만차>는 에너지가 마구 솟는 그런 느낌이랄까. 하긴 <지킬 앤 하이드>도 그랬고.** 
-
+**뭐랄까, 이를테면 <렌트>는 가볍게 가는 느낌인데 <맨 오브 라만차>는 에너지가 마구 솟는 그런 느낌이랄까. 하긴 <지킬 앤 하이드>도 그랬고.**  
 아, 난 <렌트>가 힘들었다. 음역이 고음인 데다, 무엇보다 <지킬 앤 하이드>도 그렇고 ‘다크 포스’ 때문에. 어두운 내용이 많아서 정신적으로 힘들었다. <맨 오브 라만차>는 몸은 좀 힘들어도 어두운 작품이 아니라서 괜찮았다. 그게 큰 영향을 미치는 것 같다. 그런데 담배 피워도 되나?  
 
-**How should I say it? For example, "Rent" feels light, but "Man of Ramancha" feels like energy is rising. That's true. "Jekyll and Hyde" was like that, too.**
-
+**How should I say it? For example, "Rent" feels light, but "Man of Ramancha" feels like energy is rising. That's true. "Jekyll and Hyde" was like that, too.**  
 Oh, I had a hard time with Rent. The range is high, and most of all, it's because of "Jekyll and Hyde" and "Dark Force." It was mentally difficult because there were many dark contents. "Man of Ramancha" was okay because it was not a dark work even if the body was a little tired. That seems to have a big impact. But can I smoke?
 
-**怎么说呢？比如《吉屋出租》是轻松的感觉,《我，堂吉诃德》是充满能量的感觉。 《变身怪医》也是。**
-
+**怎么说呢？比如《吉屋出租》是轻松的感觉,《我，堂吉诃德》是充满能量的感觉。 《变身怪医》也是。**  
 啊，《吉屋出租》不轻松的。《变身怪医》是因为高音域，最重要的是，也是因为"黑暗气场"，因为有很多黑暗的内容，所以精神上很累。 《我，堂吉诃德》是身体上累了些，但因为不是黑暗的作品，所以还好。 这似乎产生了很大的影响。 请问可以抽烟吗？
 
+-----
 
-
-**된다. 그런데 체력 관리는 어떻게 하나.** 
-
+**된다. 그런데 체력 관리는 어떻게 하나.**  
 원래 몸 까딱 하는 거, 운동하는 거 별로 안 좋아한다. 그런데 <맨 오브 라만차>는 공연 초반에 갑옷 입고 하니까 가만히 서 있어도 땀이 비 오듯 떨어지더라. 이거 안 되겠다 싶어서 공연하기 5시간 전에 극장 가서 뛰고, 간단한 웨이트 트레이닝을 했다. 운동의 필요성을 느꼈다.   
 
-**It works. But how do you take care of your physical strength?**
-
+**It works. But how do you take care of your physical strength?**  
 I don't really like lifting my body or exercising. However, in the beginning of the performance, I wore armor and sweated like rain even when I stood still. I thought I couldn't do this, so I went to the theater and ran and did simple weight training five hours before the performance. I felt the need for exercise.
 
-**可以。是如何训练体能呢？**
-
+**可以。是如何训练体能呢？**  
 我懒得动，也不喜欢做运动。演出开始时我穿着盔甲，即使站着不动，汗也会流得像下雨一样。我觉得这样下去不行，就在开演前的 5 个小时里去剧场跑步，进行简单的体能训练。 感受到了运动的必要性。
 
+----
 
-
-**아니 벌써 그런 말을….** 
-
+**아니 벌써 그런 말을….**  
 진짜 안 했거든. 운동 안 한 지 한 3년 됐다. <말아톤> 끝나고 아예 안 했으니.   
 
-**No, you're already saying that's....**
-
+**No, you're already saying that's....**  
 I really didn't. It's been about three years since I started working out. Since I didn't do it at all after "Malatone."
 
-**你之前说....**
-
+**你之前说....**  
 我真的没有。《马拉松》拍摄结束的 3 年里，我已经没有在运动了。
 
+-----
 
+**목소리는 어떻게 보호하나.**  
+다를 거 없다. 목 아프면 이비인후과 가고 남들 좋다는 도라지 물 타먹고 오미자 먹고, 헛개나무인가 우린 것도 있고, 목에 좋다는 거 다 먹는다. 그러면서 담배는 꼭 피운다는 거.(웃음) 술은 안 먹는다. 담배는 피우는데.
 
-**목소리는 어떻게 보호하나.**
-
-다를 거 없다. 목 아프면 이비인후과 가고 남들 좋다는 도라지 물 타먹고 오미자 먹고, 헛개나무인가 우린 것도 있고, 목에 좋다는 거 다 먹는다. 그러면서 담배는 꼭 피운다는 거.(웃음) 술은 안 먹는다. 담배는 피우는데.   
-
-**How do you protect your voice?**
-
+**How do you protect your voice?**  
 It's no different. If you have a sore throat, go to the otolaryngologist, drink bellflower water that others like, eat omija, oriental raisin tree, and eat everything that is good for your throat. And I always smoke.I don't drink. I smoke.
 
-**如何保护嗓子？**
-
+**如何保护嗓子？**  
 就那样呗，嗓子疼就去医院，喝桔梗水，吃五味子，还有枳根茶泡，反正对嗓子好的都吃。我一直抽烟，（笑）我不喝酒，但我抽烟。
 
+-----
 
-
-**많이 피우나?** 
-
+**많이 피우나?**   
 한 갑?   
 
-**Do you smoke a lot?**
-
+**Do you smoke a lot?**  
 A pack?
 
-**抽得量大吗？**
-
+**抽得量大吗？**  
 一盒？
 
+-----
 
-
-**그 정도면 목에 무리가 갈 텐데.** 
-
+**그 정도면 목에 무리가 갈 텐데.**   
 무리가 간다. 그냥 핑계 삼아서, 떨리는데 어떻게 해. 마음을 안정시켜야지.   
 
-**That would strain your throat.**
-
+**That would strain your throat.**  
 It's too much. I'm just using it as an excuse. I'm nervous. You need to calm yourself down.
 
-**嗓子吃不消吧**
-
+**嗓子吃不消吧**  
 开玩笑的，烟只是在我紧张的时候用来冷静下来的借口。
 
+-----
 
-
-**‘조승우 뮤지컬’ 하면 예매율 얘기를 안 할 수가 없다. 솔직히 뮤지컬 홍보 할 필요 없지 않나. 혹시, 이쯤 해서 스스로 제동 걸어야겠다는 생각은 해보지 않았나.** 
-
+**‘조승우 뮤지컬’ 하면 예매율 얘기를 안 할 수가 없다. 솔직히 뮤지컬 홍보 할 필요 없지 않나. 혹시, 이쯤 해서 스스로 제동 걸어야겠다는 생각은 해보지 않았나.**  
 여러 가지 방법을 생각해봤다. <맨 오브 라만차>는 대본도 안 받아보고 결정했다. 워낙 잘 아는 작품이라서. 그런데 보도가 나가고, 예매 시작과 동시에 티켓이 팔려나가고 그러니 부담이 장난이 아니었다. 아직 연습도 안 들어갔는데 표는 다 팔렸다고 하고 암표 돈다고 하고. 옛날에는 매진되고 그러면 기분 되게 좋았는데, 그것도 이제는…. 가장 먼저 정보를 입수해 컴퓨터 켜놓고 준비하는 게 팬들 아닌가. 뭐 사다주고, 과일 깎아다주고, 스탭들 이름 하나씩 일일이 써서 선물 주고 하는 게 무척 고맙긴 한데, 그 팬들이 조금만 자제해주면 다른 이들이 즐길 수 있을 텐데. 물론 그게 해결책은 아니겠지만 말이다. 또 만약 50%는 현장 판매하고 50%만 예매를 진행하겠다고 하면 컴퍼니나 나나 티켓 판매하는 쪽이나 죄다 욕을 먹을 거고. 아직 방법은 모르겠다. 지금으로서는, 내가 해결할 수 있는 방법은 없는 것 같다.  
 
-**When it comes to "Cho Seung-woo Musical," we can't help but talk about the reservation rate. Honestly, there's no need to promote the musical. Have you ever thought about braking yourself at this point?**
-
+**When it comes to "Cho Seung-woo Musical," we can't help but talk about the reservation rate. Honestly, there's no need to promote the musical. Have you ever thought about braking yourself at this point?**  
 I've thought of a lot of ways. Man of Ramancha decided without even receiving the script. I know it so well. However, as the report was released and tickets were sold as soon as the reservation began, the burden was no joke. We haven't even started practicing yet, but the tickets are all sold out and the tickets are on the ticket. In the past, I felt really good when it was sold out, but now.... Fans are the first to get information and prepare with the computer on. I'm very thankful that they buy me something, peel me fruits, and write the names of the staff one by one and give me gifts, but if those fans refrain a little, others will enjoy it. That may not be the solution, of course. Also, if 50% is sold on-site and 50% is offered, the company and I will all be criticized for selling tickets. I don't know how yet. For now, I don't think there's any way I can solve it.
 
-**说起“曹承佑音乐剧”，就得提到预售率。说实话，没有必要宣传音乐剧吧？ 或许，有没有想过这个时候应该自己去阻止呢？**
-
+**说起“曹承佑音乐剧”，就得提到预售率。说实话，没有必要宣传音乐剧吧？ 或许，有没有想过这个时候应该自己去阻止呢？**  
 想了很多方法。《我，堂吉诃德》是非常熟悉的作品，所以连剧本都没拿到就决定要出演。但是被报导后，预售开始后门票也被卖出去了，说感到负担不是在开玩笑。 还没开始练习，票就售罄，还说要买黄牛票。 以前票卖光的话会很高兴，但现在……最先得到情报并打开电脑进行准备不就是粉丝们吗？ 非常感谢粉丝们给买东西、削水果——写上工作人员的名字，送礼物。如果粉丝们稍微克制下，其他人就都能买到了。当然这不算解决方法。如果现场卖一半票，预售卖一半的话，公司和我，还有门票经销商都会挨骂。现在还不知道方法，目前我也想不到解决办法。
 
+-----
 
-
-**더블캐스팅 배우들과도 미묘한 갈등이 있을 수 있을 텐데.** 
-
+**더블캐스팅 배우들과도 미묘한 갈등이 있을 수 있을 텐데.**  
 미안하기도 하고 고맙기도 하다. 물론 조승우가 단지 영화나 TV에서 많이 보인다고, 사람들이 많이 안다고 해서 모든 초점이 내게 맞춰지는 건 참. 실력으로는 다른 배우들이 더 위인 경우가 많은데도 이미 내 표는 다 팔린 상태다. 그러니 이쯤 해서 내가 나서서 홍보를 해대기 시작하면 완전히 약 올리는 거 아닌가. 많이 보러 오세요, 하는데 표는 없다. 괜히 그러기 싫어서 그냥 작품에 대해 이야기하는 인터뷰들만 몇 군데 하고 만 거다.  
 
-**There could be subtle conflicts with double-casting actors.**
-
+**There could be subtle conflicts with double-casting actors.**  
 I'm sorry and thankful. Of course, just because Cho Seung-woo is seen a lot in movies or TV, and people know a lot, it's true that all the focus is on me. My ticket has already been sold out even though other actors are often higher in terms of skills. So at this point, I think I'm completely teasing you if I start to promote it. Please come to see it, but there are no tickets. I didn't want to do that for no reason, so I just did a few interviews talking about the work.
 
-**和双星演员之间也会有微妙的矛盾吧？**
-
+**和双星演员之间也会有微妙的矛盾吧？**  
 既抱歉又很感谢。当然，曹承佑只是在电影和电视中出现得多，人们知道得多，所有的焦点都在我身上。从实力来看，其他演员中更胜一筹的情况很多，但我的票已经卖完了。所以在这种时候，如果我开始出面宣传，完全就在气人了吧？请多来看看吧，但是没有票。 因为不想那样，所以只接受了几个关于作品的采访。
 
-
+-----
 
 **어쨌든, 당분간은 어쩔 수 없겠다.** 
 
